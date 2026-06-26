@@ -7098,6 +7098,35 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "KSQ-GBC",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "Sebastian Proost",
+    "itemTitle": "Hnefatafl - Viking Chess",
+    "shortDescription": "The Viking king's game, three historical tafl variants in one",
+    "imagePreviewURL": "pix/itch/hnefatafl.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://sebastianproost.itch.io/hnefatafl-viking-chess", "displayText": "Info"},
+        {"type": "article", "url": "https://blog.4dcu.be/ai/programming/games/2026/06/30/gameboy-hnefatafl.html", "displayText": "Article"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": true,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-25",
+    "metaTags": "",
+    "shortSearchKey": "GB-HNF",
+    "usedGenAI": "ai-code, ai-assets, ai-display-materials"
 }
 
 ];
