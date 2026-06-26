@@ -2866,6 +2866,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "GB-DSC",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "vec2pt",
+    "itemTitle": "Bytewave",
+    "shortDescription": "Experiment heavily inspired by bytebeat",
+    "imagePreviewURL": "pix/tools/bytewave.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/vec2pt/gb-bytewave", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/vec2pt/gb-bytewave", "displayText": "Source"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Audio",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-26",
+    "metaTags": "",
+    "shortSearchKey": "GB-BWV",
+    "usedGenAI": ""
 }
 
 ];
