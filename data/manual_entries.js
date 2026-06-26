@@ -2895,6 +2895,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "GB-BWV",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "vec2pt",
+    "itemTitle": "Shifty",
+    "shortDescription": "Experiment inspired by Shitwave - A PRNG based drone generator for Gameboy",
+    "imagePreviewURL": "pix/tools/shifty.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/vec2pt/gb-shifty", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/vec2pt/gb-shifty", "displayText": "Source"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Audio",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-26",
+    "metaTags": "",
+    "shortSearchKey": "GB-SFT",
+    "usedGenAI": ""
 }
 
 ];
