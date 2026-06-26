@@ -7127,6 +7127,36 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-HNF",
     "usedGenAI": "ai-code, ai-assets, ai-display-materials"
+},
+
+{
+    "authorName": "Ubersmake",
+    "itemTitle": "Minesweeper GB",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/pocketsweeper.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://ubersmake.itch.io/minesweeper-gb", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/Ubersmake/pocket-sweeper", "displayText": "Source"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-26",
+    "metaTags": "",
+    "shortSearchKey": "GB-SWP",
+    "usedGenAI": "false"
 }
+
 
 ];
