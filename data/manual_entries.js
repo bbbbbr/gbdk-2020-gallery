@@ -2808,6 +2808,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "ioccc",
     "shortSearchKey": "OXO-GB",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "vec2pt",
+    "itemTitle": "Granular",
+    "shortDescription": "Experimental ROM inspired by granular synthesis, designed for generating noise / chiptune textures",
+    "imagePreviewURL": "pix/music/granular.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/vec2pt/gb-granular", "displayText": "Info"},
+        {"source": "primary", "url": "https://github.com/vec2pt/gb-granular", "displayText": "Source"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Music",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-26",
+    "metaTags": "",
+    "shortSearchKey": "GB-GNL",
+    "usedGenAI": ""
 }
 
 ];
