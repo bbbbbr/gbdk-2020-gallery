@@ -2814,7 +2814,7 @@ const jsonGalleryItemsManual = [
     "authorName": "vec2pt",
     "itemTitle": "Granular",
     "shortDescription": "Experimental ROM inspired by granular synthesis, designed for generating noise / chiptune textures",
-    "imagePreviewURL": "pix/music/granular.png",
+    "imagePreviewURL": "pix/tools/granular.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/vec2pt/gb-granular", "displayText": "Info"},
         {"source": "primary", "url": "https://github.com/vec2pt/gb-granular", "displayText": "Source"}
@@ -2836,6 +2836,35 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2026-06-26",
     "metaTags": "",
     "shortSearchKey": "GB-GNL",
+    "usedGenAI": ""
+},
+
+{
+    "authorName": "vec2pt",
+    "itemTitle": "DummyOSC",
+    "shortDescription": "Simple oscillator for Game Boy with the ability to select waveform and pitch",
+    "imagePreviewURL": "pix/tools/dummyosc.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/vec2pt/gb-dummyosc", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/vec2pt/gb-dummyosc", "displayText": "Source"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Audio",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-26",
+    "metaTags": "",
+    "shortSearchKey": "GB-DSC",
     "usedGenAI": ""
 }
 
