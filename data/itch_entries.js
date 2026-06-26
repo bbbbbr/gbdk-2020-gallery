@@ -7156,6 +7156,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-SWP",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "SKAeM",
+    "itemTitle": "SNAKE DAWG",
+    "shortDescription": "RIP KOBE JXRDAN",
+    "imagePreviewURL": "pix/itch/snakedawg.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://skaem.itch.io/snake-dawg", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooting",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-26",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 }
 
 
