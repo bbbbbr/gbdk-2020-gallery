@@ -7182,9 +7182,36 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2026",
     "dateAdded": "2026-06-26",
     "metaTags": "",
-    "shortSearchKey": "",
+    "shortSearchKey": "GBC-SDG",
+    "usedGenAI": "false"
+},
+
+{
+    "authorName": "RYUHA Studio",
+    "itemTitle": "Drakoko (demo)",
+    "shortDescription": "Fly Drakoko through the endless labyrinths of Dokoland in search of her lost Kokkos",
+    "imagePreviewURL": "pix/itch/drakoko.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://ryuha-studio.itch.io/drakoko-gbc", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooting",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "ZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-26",
+    "metaTags": "",
+    "shortSearchKey": "GBC-DRK",
     "usedGenAI": "false"
 }
-
 
 ];
