@@ -7212,6 +7212,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GBC-DRK",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "Miguel Ángel Pérez Martínez",
+    "itemTitle": "Flappy Boy",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/flappyboy_zurashu.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://zurashu.itch.io/flappy-boy", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2015",
+    "dateAdded": "2026-06-28",
+    "metaTags": "",
+    "shortSearchKey": "GB-FLZ",
+    "usedGenAI": "false"
 }
 
 ];
