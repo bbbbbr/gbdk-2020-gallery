@@ -2924,6 +2924,36 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "GB-SFT",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "ThroatyMumbo",
+    "itemTitle": "GBCYoutube",
+    "shortDescription": "Getting YouTube to work on the Game Boy Color",
+    "imagePreviewURL": "pix/tools/gbcyoutube.jpg",
+    "linksArray": [
+        {"type": "primary", "url": "https://www.youtube.com/watch?v=_GlYnN9JK1k", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/ThroatyMumbo/GBCYouTube/tree/main", "displayText": "Source"},
+        {"type": "article", "url": "https://www.youtube.com/watch?v=_GlYnN9JK1k", "displayText": "Video"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Video",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-28",
+    "metaTags": "",
+    "shortSearchKey": "GBC-YTB",
+    "usedGenAI": "ai-code"
 }
 
 ];
