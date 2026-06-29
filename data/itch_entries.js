@@ -7240,6 +7240,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-FLZ",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "TraumaTurtle",
+    "itemTitle": "Crazy Animal Safari",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/crazyanimal.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://cryptikron.itch.io/slider", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-29",
+    "metaTags": "",
+    "shortSearchKey": "GB-CSF",
+    "usedGenAI": "ai-code, ai-assets, ai-display-materials"
 }
 
 ];
