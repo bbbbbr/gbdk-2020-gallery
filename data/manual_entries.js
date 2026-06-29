@@ -2954,6 +2954,36 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "GBC-YTB",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "The Nanoz",
+    "itemTitle": "The Nanoz for Game Boy",
+    "shortDescription": "Play as Cooper in this infinite runner",
+    "imagePreviewURL": "pix/games/thenanoz.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://thenanoz.medium.com/nanoz-game-boy-game-1-is-out-now-958bbbe0b0a9", "displayText": "Info"},
+        {"type": "article", "url": "https://thenanoz.medium.com/nanoz-game-boy-game-1-is-out-now-958bbbe0b0a9", "displayText": "Article"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-29",
+    "metaTags": "",
+    "shortSearchKey": "GB-NNZ",
+    "usedGenAI": ""
 }
+
 
 ];
